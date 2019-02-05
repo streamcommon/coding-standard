@@ -15,8 +15,8 @@
 2. Add composer scripts into your `composer.json`:
    ```json
         "scripts": {
-        "cs-check": "phpcs",
-        "cs-fix": "phpcbf"
+            "cs-check": "phpcs",
+            "cs-fix": "phpcbf"
         }
     ```
 3. Create file `phpcs.xml`:
