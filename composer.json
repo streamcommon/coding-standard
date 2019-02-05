@@ -1,0 +1,13 @@
+{
+  "name": "streamcommon/coding-standard",
+  "description": "StreamCommon Team Coding Standard",
+  "license": "BSD-3-Clause",
+  "type": "library",
+  "keywords": [
+    "streamcommon",
+    "coding standard"
+  ],
+  "require": {
+    "squizlabs/php_codesniffer": "^3.4.0"
+  }
+}
