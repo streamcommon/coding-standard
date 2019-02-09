@@ -1,4 +1,7 @@
 # StreamCommon Team Coding Standard
+[![Latest Stable Version](https://poser.pugx.org/streamcommon/coding-standard/v/stable)](https://packagist.org/packages/streamcommon/coding-standard)
+[![Total Downloads](https://poser.pugx.org/streamcommon/coding-standard/downloads)](https://packagist.org/packages/streamcommon/coding-standard)
+[![License](https://poser.pugx.org/streamcommon/coding-standard/license)](./LICENSE)
 
 ## Installation
 1. Install the module via composer:
