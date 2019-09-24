@@ -20,6 +20,7 @@
             <property name="spacing" value="1"/>
         </properties>
     </rule>
+    <rule ref="Generic.Formatting.MultipleStatementAlignment"/>
     <rule ref="Generic.Strings.UnnecessaryStringConcat">
         <properties>
             <property name="allowMultiline" value="true"/>
