@@ -62,7 +62,9 @@
     <rule ref="Generic.NamingConventions.ConstructorName"/>
     <rule ref="Generic.NamingConventions.CamelCapsFunctionName"/>
     <rule ref="Generic.NamingConventions.UpperCaseConstantName"/>
-    <rule ref="Squiz.NamingConventions.ValidVariableName"/>
+    <rule ref="Squiz.NamingConventions.ValidVariableName">
+        <exclude name="Squiz.NamingConventions.ValidVariableName.PrivateNoUnderscore"/>
+    </rule>
     <rule ref="Generic.PHP.BacktickOperator"/>
     <rule ref="Generic.PHP.LowerCaseType"/>
     <rule ref="Generic.PHP.SAPIUsage"/>
