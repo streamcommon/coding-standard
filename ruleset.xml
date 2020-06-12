@@ -76,8 +76,6 @@
         <exclude name="Squiz.Arrays.ArrayDeclaration.CloseBraceNotAligned"/>
         <exclude name="Squiz.Arrays.ArrayDeclaration.MultiLineNotAllowed"/>
         <exclude name="Squiz.Arrays.ArrayDeclaration.ValueNotAligned"/>
-        <exclude name="Squiz.Arrays.ArrayDeclaration.NoCommaAfterLast"/>
-        <exclude name="Squiz.Arrays.ArrayDeclaration.NoComma"/>
     </rule>
     <rule ref="Squiz.Commenting.DocCommentAlignment">
         <exclude name="Squiz.Commenting.DocCommentAlignment.SpaceAfterStar"/>
